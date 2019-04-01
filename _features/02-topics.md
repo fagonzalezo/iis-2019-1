@@ -16,9 +16,9 @@ image:
 
 2 **Solución de problemas**
 
-2.1 Búsquedas en grafos
+2.1 Agentes y Búsquedas
 
-2.2 Búsqueda de costo uniforme
+2.2 Búsqueda no informada
 
 2.3 Búsqueda informada
 
@@ -46,28 +46,4 @@ image:
 
 3.3.2 Clustering 
 
-3.4 Evaluación
-
-3.4.1 Medidas de desempeño
-
-3.4.2 Complejidad y sobre-ajuste
-
-3.4.3 Selección de modelos
-
-4 **Aplicaciones**
-
-4.1 Visión
-
-4.1.1 Visión por computador
-
-4.1.2 Deep learning
-
-4.1.3 Redes neuronales convolucionales
-
-4.2 Entendimiento de lenguaje natural
-
-4.2.1 Bolsas de palabras y clasificación de texto
-
-4.2.2 Representaciones distribucionales
-
-4.2.3 Modelos de lenguaje
+3.4 Aprendizaje por refuerzo
