@@ -34,10 +34,9 @@ image:
 				<td>
 					[Russell10] Chap 3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>) <br>
 					[AI-edX] Agents and Search (<a href= "http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/7c56230af88d467c9737344e2e76092e/">video</a>)<br>
-					<a href= "https://colab.research.google.com/drive/14bQITZS1wVLYJEKG4jNVsWbsBGryuOvY"> Notebook Ambiente Snake y Agente Reactivo </a>
-
 				</td>
 				<td>
+				<a href= "https://colab.research.google.com/drive/14bQITZS1wVLYJEKG4jNVsWbsBGryuOvY"> Práctica 1 </a>
 				</td>
 			</tr>
 			<tr>
