@@ -50,6 +50,7 @@ image:
 					<a href= "https://github.com/aimacode/aima-python/blob/master/search4e.ipynb">Search algorithms notebook from AIMA </a>
 				</td>
 				<td>
+				<a href= "https://www.dropbox.com/request/SLNaSv6au3PvQruWkxMO"> Práctica 2 </a>
 				</td>
 			</tr>
 			<tr>
