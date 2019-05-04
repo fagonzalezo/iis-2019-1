@@ -40,7 +40,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Abr 15-22</td>
+				<td>Abr 15-29</td>
 				<td>2.4 Búsqueda no informada<br>
 					2.5 Búsqueda informada<br> 
 				</td>
@@ -55,7 +55,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Apr 29</td>
+				<td>May 6</td>
 				<td>3.1 Qué es aprendizaje de máquina<br>
 					3.2 Aprendizaje supervisado<br>
 					3.2.1 Clasificación lineal<br>
@@ -68,7 +68,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>May 6-13</td>
+				<td>May 13</td>
 				<td>3.2.2 Modelos probabilísticos (regresión logística, Naïve Bayes)<br>
 				</td>
 				<td>
