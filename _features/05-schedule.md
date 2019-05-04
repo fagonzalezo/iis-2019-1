@@ -50,7 +50,8 @@ image:
 					<a href= "https://github.com/aimacode/aima-python/blob/master/search4e.ipynb">Search algorithms notebook from AIMA </a>
 				</td>
 				<td>
-				<a href= "https://colab.research.google.com/drive/11Y14ZRc0IoAk3Po49bW6THT9J_TQzNs2"> Práctica 2 </a>
+				<a href= "https://colab.research.google.com/drive/11Y14ZRc0IoAk3Po49bW6THT9J_TQzNs2">Práctica 2</a><br>
+				<a href= "https://nbviewer.jupyter.org/github/fagonzalezo/iis-2019-1/blob/master/taller1.ipynb">Taller 1</a>
 				</td>
 			</tr>
 			<tr>
