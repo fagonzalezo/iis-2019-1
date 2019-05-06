@@ -62,7 +62,7 @@ image:
 				</td>
 				<td>
 					[Russell10] Sect 18.1, 18.2, 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
-					An Introduction to Machine Learning (<a href= "https://fagonzalezo.github.io/iis-2018-1/intro-ml.pdf">slides</a>)<br>
+					An Introduction to Machine Learning (<a href= "https://fagonzalezo.github.io/iis-2019-1/intro-ml.pdf">slides</a>)<br>
 				</td>
 				<td>
 				</td>
