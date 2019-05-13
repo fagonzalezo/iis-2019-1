@@ -58,7 +58,6 @@ image:
 				<td>May 6</td>
 				<td>3.1 Qué es aprendizaje de máquina<br>
 					3.2 Aprendizaje supervisado<br>
-					3.2.1 Clasificación lineal<br>
 				</td>
 				<td>
 					[Russell10] Sect 18.1, 18.2, 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
@@ -69,10 +68,13 @@ image:
 			</tr>
 			<tr>
 				<td>May 13</td>
-				<td>3.2.2 Modelos probabilísticos (regresión logística, Naïve Bayes)<br>
+				<td>
+				3.2.1 Clasificación lineal<br>
+				3.2.2 Modelos probabilísticos (regresión logística, Naïve Bayes)<br>
 				</td>
 				<td>
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) 20.2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20.pdf">slides</a>)<br>
+					<a href= "https://colab.research.google.com/drive/18skm99K-VsCmd66o0CaZDJiPmOHyDfXX">Notebook: Clasificación binaria usando un modelo lineal</a>
 				</td>
 				<td>
 				</td>
