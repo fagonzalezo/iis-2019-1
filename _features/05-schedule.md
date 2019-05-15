@@ -73,8 +73,10 @@ image:
 				3.2.2 Modelos probabilísticos (regresión logística, Naïve Bayes)<br>
 				</td>
 				<td>
-					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) 20.2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20.pdf">slides</a>)<br>
-					<a href= "https://colab.research.google.com/drive/18skm99K-VsCmd66o0CaZDJiPmOHyDfXX">Notebook: Clasificación binaria usando un modelo lineal</a>
+					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) 20.2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20a.pdf">slides</a>)<br>
+					[AI-edX] Naïve Bayes (<a href= "http://ai.berkeley.edu/slides/Lecture%2021%20--%20Naive%20Bayes/SP14%20CS188%20Lecture%2021%20--%20Naive%20Bayes.pptx">slides</a>)<br>
+					<a href= "https://colab.research.google.com/drive/18skm99K-VsCmd66o0CaZDJiPmOHyDfXX">Notebook: Clasificación binaria usando un modelo lineal</a><br>
+					<a href= "https://colab.research.google.com/drive/1T_-CmsSZMAPNiMjfnjXT-sYBGB8DmSM3">Notebook: Clasificación Lineal y Evaluación del Desempeño</a>
 				</td>
 				<td>
 				</td>
