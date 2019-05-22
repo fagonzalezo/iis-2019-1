@@ -55,7 +55,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>May 6</td>
+				<td>May 6-13</td>
 				<td>3.1 Qué es aprendizaje de máquina<br>
 					3.2 Aprendizaje supervisado<br>
 				</td>
@@ -67,7 +67,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>May 13</td>
+				<td>May 20</td>
 				<td>
 				3.2.1 Clasificación lineal<br>
 				3.2.2 Modelos probabilísticos (regresión logística, Naïve Bayes)<br>
@@ -79,10 +79,11 @@ image:
 					<a href= "https://colab.research.google.com/drive/1T_-CmsSZMAPNiMjfnjXT-sYBGB8DmSM3">Notebook: Clasificación Lineal y Evaluación del Desempeño</a>
 				</td>
 				<td>
+				<a href= "https://colab.research.google.com/drive/1WChFNV0r3mF9GaUvtnmzN8I4YoC5zQZi">Práctica 3</a><br>
 				</td>
 			</tr>
 			<tr>
-				<td>May 20</td>
+				<td>May 27</td>
 				<td>3.2.3 Clasificación no lineal (k-nn, árboles de decisión)<br>
 				</td>
 				<td>
@@ -92,7 +93,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>May 27</td>
+				<td>Jun 3</td>
 				<td>3.2.4 Support vector machines<br>
 				</td>
 				<td>
@@ -102,7 +103,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Jun 3-10</td>
+				<td>Jun 10</td>
 				<td>3.2.5 Redes neuronales<br>
 				</td>
 				<td>
