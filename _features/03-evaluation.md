@@ -11,4 +11,4 @@ image:
 * Tareas 20%
 * Proyecto 20%
 
-[Notas]()
+[Notas](https://docs.google.com/spreadsheets/d/1cwHQ6A-mcKlVuWXdbkt705Ymy6_ARoKHPoXooEXA0jM/edit?usp=sharing)
