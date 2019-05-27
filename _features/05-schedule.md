@@ -88,6 +88,7 @@ image:
 				</td>
 				<td>
 					[Russell10] Sect 18.3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
+					<a href= "https://colab.research.google.com/drive/1BUn0mw1RCbkY0JtTh9bKt_qyrk8AuT4G">Notebook: Clasificación no lineal, complejidad y sobreajuste</a>
 				</td>
 				<td>
 				</td>
