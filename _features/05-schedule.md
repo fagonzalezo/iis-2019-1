@@ -91,6 +91,7 @@ image:
 					<a href= "https://colab.research.google.com/drive/1BUn0mw1RCbkY0JtTh9bKt_qyrk8AuT4G">Notebook: Clasificación no lineal, complejidad y sobreajuste</a>
 				</td>
 				<td>
+				<a href= "https://colab.research.google.com/drive/1K98qRZhRw52W--ZzerTJAv7RfVO2xCYo">Práctica 4</a><br>
 				</td>
 			</tr>
 			<tr>
