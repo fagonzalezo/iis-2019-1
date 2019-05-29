@@ -99,6 +99,7 @@ image:
 				</td>
 				<td>
 					[Russell10] Sect 18.9 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
+					<a href= "https://colab.research.google.com/drive/1_V-EtWtPj0cvuuGzAx3VixJfxHMk2VEw">Notebook: Máquinas de vectores de soporte y selección de modelos</a>
 				</td>
 				<td>
 				</td>
