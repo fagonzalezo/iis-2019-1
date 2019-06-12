@@ -95,19 +95,23 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Jun 3</td>
-				<td>3.2.4 Support vector machines<br>
+				<td>Jun 10</td>
+				<td>
+					3.2.4 Support vector machines<br>
+					3.2.5 Random Forest<br>
 				</td>
 				<td>
 					[Russell10] Sect 18.9 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					<a href= "https://colab.research.google.com/drive/1_V-EtWtPj0cvuuGzAx3VixJfxHMk2VEw">Notebook: Máquinas de vectores de soporte y selección de modelos</a>
+					<a href= "https://colab.research.google.com/drive/1n3mWmyDgwpf5rZwMi1_DixniA3VXcBm8">Notebook: Random Forests y exploración aleatorizada</a>
 				</td>
 				<td>
+					<a href= "https://nbviewer.jupyter.org/github/fagonzalezo/iis-2019-1/blob/master/taller2.ipynb">Taller 2</a>
 				</td>
 			</tr>
 			<tr>
-				<td>Jun 10</td>
-				<td>3.2.5 Redes neuronales<br>
+				<td>Jun 17</td>
+				<td>3.2.6 Redes neuronales<br>
 				</td>
 				<td>
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
@@ -117,8 +121,8 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Jun 17-24</td>
-				<td>3.2.6 Deep learning<br>
+				<td>Jun 24</td>
+				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
 					Introduction to Deep Learning and Applications (<a href= "https://github.com/albahnsen/AppliedDeepLearningClass/blob/master/presentations/DL-introduction.pdf">slides</a>) <br>

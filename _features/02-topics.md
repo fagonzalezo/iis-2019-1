@@ -36,9 +36,11 @@ image:
 
 3.2.4 Support Vector Machines
 
-3.2.5 Redes Neuronales
+3.2.5 Random Forest
 
-3.2.6 Deep learning
+3.2.6 Redes Neuronales
+
+3.2.7 Deep learning
 
 3.3 Aprendizaje no supervisado
 
