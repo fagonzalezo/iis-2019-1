@@ -116,6 +116,8 @@ image:
 				<td>
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					[Alp10] Chap 11  (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>) <br>
+					<a href= "https://colab.research.google.com/drive/1yO5UYzlFUEUyCvtNCWkPKTBPZJOBUZuU">Notebook: Redes Neuronales</a>
+
 				</td>
 				<td>
 				</td>
