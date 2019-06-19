@@ -88,7 +88,7 @@ image:
 				</td>
 				<td>
 					[Russell10] Sect 18.3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
-					<a href= "https://colab.research.google.com/drive/1BUn0mw1RCbkY0JtTh9bKt_qyrk8AuT4G">Notebook: Clasificación no lineal, complejidad y sobreajuste</a>
+					<a href= "https://colab.research.google.com/drive/1BUn0mw1RCbkY0JtTh9bKt_qyrk8AuT4G">Notebook: Clasificación no lineal, complejidad y sobreajuste</a><br>
 				</td>
 				<td>
 				<a href= "https://colab.research.google.com/drive/1K98qRZhRw52W--ZzerTJAv7RfVO2xCYo">Práctica 4</a><br>
@@ -102,8 +102,8 @@ image:
 				</td>
 				<td>
 					[Russell10] Sect 18.9 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
-					<a href= "https://colab.research.google.com/drive/1_V-EtWtPj0cvuuGzAx3VixJfxHMk2VEw">Notebook: Máquinas de vectores de soporte y selección de modelos</a>
-					<a href= "https://colab.research.google.com/drive/1n3mWmyDgwpf5rZwMi1_DixniA3VXcBm8">Notebook: Random Forests y exploración aleatorizada</a>
+					<a href= "https://colab.research.google.com/drive/1_V-EtWtPj0cvuuGzAx3VixJfxHMk2VEw">Notebook: Máquinas de vectores de soporte y selección de modelos</a><br>
+					<a href= "https://colab.research.google.com/drive/1n3mWmyDgwpf5rZwMi1_DixniA3VXcBm8">Notebook: Random Forests y exploración aleatorizada</a><br>
 				</td>
 				<td>
 					<a href= "https://nbviewer.jupyter.org/github/fagonzalezo/iis-2019-1/blob/master/taller2.ipynb">Taller 2</a>
@@ -116,8 +116,8 @@ image:
 				<td>
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					[Alp10] Chap 11  (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>) <br>
-					<a href= "https://colab.research.google.com/drive/1yO5UYzlFUEUyCvtNCWkPKTBPZJOBUZuU">Notebook: Redes Neuronales</a>
-					<a href= "https://colab.research.google.com/drive/1LzTwgL3jL1L58lQqe29F4TXw_KqA08ak">Notebook: Neural Networks in Keras</a>
+					<a href= "https://colab.research.google.com/drive/1yO5UYzlFUEUyCvtNCWkPKTBPZJOBUZuU">Notebook: Redes Neuronales</a><br>
+					<a href= "https://colab.research.google.com/drive/1LzTwgL3jL1L58lQqe29F4TXw_KqA08ak">Notebook: Neural Networks in Keras</a><br>
 				</td>
 				<td>
 				</td>
