@@ -129,6 +129,7 @@ image:
 				<td>
 					Introduction to Deep Learning and Applications (<a href= "https://github.com/albahnsen/AppliedDeepLearningClass/blob/master/presentations/DL-introduction.pdf">slides</a>) <br>
 					<a href= "https://fagonzalezo.github.io/dl_tutorial_upv/">Representation Learning and Deep Learning Tutorial </a><br>
+					<a href= "https://colab.research.google.com/drive/1C8MOfKYY-Pb9dlNBli8pF8YYpYVCJuhp">Notebook: CNN for image classification in Keras</a><br>
 				</td>
 				<td>
 				</td>
