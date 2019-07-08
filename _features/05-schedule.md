@@ -114,6 +114,7 @@ image:
 				<td>3.2.6 Redes neuronales<br>
 				</td>
 				<td>
+					<a href= "https://www.youtube.com/watch?v=KCMHzif64CM">Video clase redes neuronales (2018-2)</a> <br>
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					[Alp10] Chap 11  (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>) <br>
 					<a href= "https://colab.research.google.com/drive/1yO5UYzlFUEUyCvtNCWkPKTBPZJOBUZuU">Notebook: Redes Neuronales</a><br>
@@ -127,6 +128,9 @@ image:
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
+					<a href= "https://www.youtube.com/watch?v=cKcyOzIPMu0">Video clase DL 1 (2018-2)</a> <br>
+					<a href= "https://www.youtube.com/watch?v=EiuDcFE_5pM">Video clase DL 2 (2018-2)</a> <br>
+					<a href= "https://www.youtube.com/watch?v=LlL5GxRlsa8">Video clase  DL 3 (2018-2)</a> <br>
 					Introduction to Deep Learning and Applications (<a href= "https://github.com/albahnsen/AppliedDeepLearningClass/blob/master/presentations/DL-introduction.pdf">slides</a>) <br>
 					<a href= "https://fagonzalezo.github.io/dl_tutorial_upv/">Representation Learning and Deep Learning Tutorial </a><br>
 					<a href= "https://colab.research.google.com/drive/1C8MOfKYY-Pb9dlNBli8pF8YYpYVCJuhp">Notebook: CNN for image classification in Keras</a><br>
@@ -141,6 +145,7 @@ image:
 				3.3.2 Clustering (agrupamiento)<br>
 				</td>
 				<td>
+					<a href= "https://www.youtube.com/watch?v=6I7pWdW1KSE">Video clase agrupamiento (2018-2)</a> <br>
 					[Alp10] Chap 7 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap7-v1-0.pdf">slides</a>)
 					<br>
 					<a href= "https://fagonzalezo.github.io/iis-2018-1/KMeans.pdf">K-Means</a><br>
@@ -156,10 +161,12 @@ image:
 				    3.3.1 Reducción de la dimensionalidad <br>
 				</td>
 				<td>
+					<a href= "https://www.youtube.com/watch?v=EX1397RTcEs">Video clase reducción de la dimensionalidad (2018-2)</a> <br>
 					<a href= "https://www.youtube.com/watch?v=EX1397RTcEs">Video clase Dic 3</a> <br>
 					Intro to PCA (<a href= "https://www.scribd.com/presentation/62790749/Intro-to-PCA">slides</a>)
 					<br>
-					A tutorial on principal component analysis (<a href= "https://www.cs.princeton.edu/picasso/mats/PCA-Tutorial-Intuition_jp.pdf">pdf</a>)
+					A tutorial on principal component analysis (<a href= "https://www.cs.princeton.edu/picasso/mats/PCA-Tutorial-Intuition_jp.pdf">pdf</a>)<br>
+					Reducción de la dimensionalidad con PCA (<a href= "https://colab.research.google.com/drive/1UO8TZ4oRsjHhDOaIbU3xM0Ndsf_5QQb8">notebook</a>)
 				</td>
 				<td>
 				</td>				
